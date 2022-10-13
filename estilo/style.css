@@ -119,6 +119,7 @@ main {
  footer {
     background-color: var(--cor0);
     margin-top: 50px;
+    padding: 10px;
  }
   footer p {
     text-align: center;
