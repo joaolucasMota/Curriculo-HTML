@@ -112,7 +112,7 @@ main {
 
  main > div > a:hover {
     background-color: white;
-    text-decoration: underline;
+    text-decoration: none;
     color: var(--cor0);
  }
 
