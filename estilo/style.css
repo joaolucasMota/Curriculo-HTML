@@ -115,6 +115,7 @@ main {
     color: white;
     border-radius: 5px;
     transition-duration: 1s;
+    margin: 5px;
  }
 
  main > div > a:hover {
