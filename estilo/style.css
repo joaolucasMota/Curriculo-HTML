@@ -19,10 +19,12 @@ body {
 
 header {
     background-color: var(--cor0);
-    margin: 100px 50px 50px 50px;
     padding: 50px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.314);
     border-radius: 20px;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 50px;
 }
 
 header > h1 {
@@ -51,6 +53,7 @@ ul li.mail {
     list-style-type: '\1F4E7\00A0\00A0';
     list-style-position: inside;
     color: white;
+    font-weight: 100;
 }
 
 ul li.phone {
@@ -79,7 +82,9 @@ header > div > a >img.linkedin {
 
 main {
     background-color: white;
-    margin: -5px 50px 0px 50px;
+    margin: auto;
+    margin-bottom: 50px;
+    max-width: 800px;
     padding: 50px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.314);
     border-radius: 20px;
@@ -120,8 +125,10 @@ main {
 
  footer {
     background-color: var(--cor0);
-    margin: 50px 50px 0px 50px ;
-    padding: 10px;
+    margin: auto;
+    margin-bottom: 50px;
+    max-width: 800px;
+    padding: 10px 50px 10px 50px;
     border-radius: 20px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.314);
  }
