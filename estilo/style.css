@@ -49,23 +49,31 @@ ul {
     padding-bottom: 20px;
 }
 
+ul li {
+    margin-bottom: 5px;
+}
+
 ul li.mail {
-    list-style-type: '\1F4E7\00A0\00A0';
+    list-style-type: none;
     list-style-position: inside;
     color: white;
     font-weight: 100;
 }
 
 ul li.phone {
-    list-style-type: '\1F4DE\00A0\00A0';
+    list-style-type: none;
     list-style-position: inside;
     color: white;
 }
 
 ul li.adress {
-    list-style-type: '\1F3E0\00A0\00A0';
+    list-style-type: none;
     list-style-position: inside;
     color: white;
+}
+
+header > ul > li > img {
+    padding-right: 5px;
 }
 
 header > div {
