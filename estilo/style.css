@@ -44,7 +44,7 @@ header > p {
 header > div.foto {
     width: 200px;
     height: 200px;
-    background-image: url("imagens/EU.jfif");
+    background-image: url("../imagens/EU.jfif");
     background-position: center center;
     float: right;
     background-size: 200px;
@@ -87,15 +87,15 @@ header > ul > li > img {
     padding-right: 10px;
 }
 
-header > div {
+header > div.box {
     padding-top: 10px;
 }
 
-header > div > abbr > a >img.git {
+header > div.box > abbr > a >img.git {
     margin-left: 30px;
 }
 
-header > div > abbr > a >img.linkedin {
+header > div.box > abbr > a >img.linkedin {
     margin-left: -20px;
 }
 
