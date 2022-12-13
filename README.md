@@ -1,1 +1,1 @@
-<h1>Meu currículo HTML</h1>
+<h1 align='center'>Meu currículo HTML</h1>
