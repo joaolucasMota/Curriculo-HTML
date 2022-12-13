@@ -1,4 +1,5 @@
 <h1 align='center'>Meu currículo HTML</h1>
+
 ![curriculo](https://user-images.githubusercontent.com/86432480/207411231-f642f800-0ad0-4864-8f1f-6ae9b423cf7e.gif)
 
 <h2>Sobre o projeto<h2>
