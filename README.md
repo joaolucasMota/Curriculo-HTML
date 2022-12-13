@@ -8,6 +8,6 @@
 
 <h2>Tecnologias utilizadas<h2>
 <ul>
-  <ui>HTML
-  <ui>CSS
+  <li>HTML
+  <li>CSS
 </ul>
