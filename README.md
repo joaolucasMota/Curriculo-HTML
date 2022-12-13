@@ -7,3 +7,7 @@
 <p>Para visualizar o projeto <a href="https://joaolucasmota.github.io/Curriculo-HTML/">clique aqui</a> 
 
 <h2>Tecnologias utilizadas<h2>
+<ul>
+  <ui>HTML
+  <ui>CSS
+</ul>
